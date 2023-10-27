@@ -6,7 +6,7 @@ Project Description:
 This project aims to analyze state highway road accidents and injuries in Indian states and UTs using data sourced from data.gov.in. 
 
 The project will focus on the following areas:
-1.To collect, clean, and store data on road accidents and injuries in Indian states and UTs.
+1. To collect, clean, and store data on road accidents and injuries in Indian states and UTs.
 2. Identifying the patterns and trends of road accidents and injuries in India.
 3. Identifying the states and UTs with the highest rates of road accidents and injuries.
 4. Identifying the factors that contribute to road accidents and injuries in India.
@@ -26,4 +26,4 @@ We welcome contributions from the community. If you have ideas for improvements,
 The project is open to contributions from all interested parties. please feel free to contact.
 
 Contact:
-If you have any questions, feedback, or are interested in collaborating, feel free to reach out to us at [abdullahlahaji10@gmail.com].
+If you have any questions, feedback, or are interested in collaborating, feel free to reach out at [abdullahlahaji10@gmail.com].
